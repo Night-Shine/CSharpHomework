@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <Detail>
+      <Num>1</Num>
+      <CutomerName>刘一泽</CutomerName>
+      <ProductName>王者</ProductName>
+    </Detail>
+  </Order>
+  <Order>
+    <Detail>
+      <Num>2</Num>
+      <CutomerName>孟昊</CutomerName>
+      <ProductName>神坑队友</ProductName>
+    </Detail>
+  </Order>
+</ArrayOfOrder>
